@@ -1,0 +1,11 @@
+{
+  "name": "bun-check-ts2615-repro",
+  "private": true,
+  "scripts": {
+    "check:bun": "bun check",
+    "check:tsc": "tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "7.0.2"
+  }
+}
